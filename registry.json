@@ -1,0 +1,8 @@
+{
+  "extensions": {
+    "cosyses": {
+      "url": "https://github.com/cosyses/anodosys.git",
+      "description": "Cosyses base images (Ubuntu, Alpine, Debian, RHEL, Fedora, openSUSE) with Cosyses preinstalled"
+    }
+  }
+}
