@@ -29,7 +29,7 @@ The value can also be just the url. The versions of an extension are the semver 
 {
   "name": "magento",
   "description": "Magento systems and images",
-  "anodosys": ">=3.7",
+  "anodosys": ">=4.0",
   "requires": { "fewedev": "^1.0" },
   "sources": { "fewedev": "git@github.com:fewe-dev/anodosys.git" }
 }
